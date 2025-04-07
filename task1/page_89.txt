@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Хермод — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"876885c1-aa82-4dff-ab6f-6d6758f2f4eb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Хермод","wgTitle":"Хермод","wgCurRevisionId":130920615,"wgRevisionId":130920615,"wgArticleId":1022124,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с источниками из Викиданных","ПРО:Мифология:Последняя правка: в позапрошлом году","Незавершённые статьи по германо-скандинавской мифологии","Википедия:Статьи без ссылок на источники с июня 2019 года","Википедия:Статьи без источников (тип: скандинавское божество)","Персонажи по алфавиту","Мифологические персонажи по алфавиту","Асы","Боги-вестники","Боги по алфавиту"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Хермод","wgRelevantArticleId":1022124,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":130537572,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q579612","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.23">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/03/Treated_NKS_hermodr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1538">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/03/Treated_NKS_hermodr.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1025">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="820">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Хермод — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Хермод rootpage-Хермод skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Хермод</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;stable=1">версии, проверенной 19 мая 2023 года</a>; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;oldid=130537572&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-2c7d3c8c0efee731" style="" data-name="Мифологический персонаж"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Хермод</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q579612$d2ab5236-44ea-63db-aec9-cccd2a085ddc" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Balder_and_Nanna_with_Hermod.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balder_and_Nanna_with_Hermod.jpg/238px-Balder_and_Nanna_with_Hermod.jpg" decoding="async" width="238" height="400" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balder_and_Nanna_with_Hermod.jpg/357px-Balder_and_Nanna_with_Hermod.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Balder_and_Nanna_with_Hermod.jpg/475px-Balder_and_Nanna_with_Hermod.jpg 2x" data-file-width="553" data-file-height="930" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Пол</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q579612$21c44d18-4d1e-66fe-9e0d-9fe23ef904b8" class="wikidata-claim" data-wikidata-property-id="P21"><span class="wikidata-snak wikidata-main-snak">мужской</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Отец</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q579612$f0ad1c5f-44e1-5883-fc34-479ac61ad888" class="wikidata-claim" data-wikidata-property-id="P22"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9E%D0%B4%D0%B8%D0%BD" title="Один">Один</a></span><sup id="cite_ref-_859617d3e630f19c_1-0" class="reference"><a href="#cite_note-_859617d3e630f19c-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Братья и&#160;сёстры</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q579612$D763D339-5DFF-4EC4-824C-2704D3ABB45E" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%B4%D1%80" title="Бальдр">Бальдр</a></span></span>,&#32;<span data-wikidata-claim-id="Q579612$76C5B268-7492-4D65-B40D-ADE74E51117E" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%91%D0%B4" title="Хёд">Хёд</a></span></span>,&#32;<span data-wikidata-claim-id="Q579612$A95261D2-6562-4A55-82D3-1D87957DDB4B" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%91%D1%80%D0%B0%D0%B3%D0%B8" title="Браги">Браги</a></span></span>,&#32;<span data-wikidata-claim-id="Q579612$DA2AE5C3-DF7B-4617-816C-E72CEA29E4E4" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%BE%D1%80_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тор (мифология)">Тор</a></span></span>,&#32;<span data-wikidata-claim-id="Q579612$6309C83D-62EF-480F-9A11-56C7B148129D" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B5%D0%B9%D0%BB%D0%B8_(%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Мейли (скандинавская мифология)">Меили</a></span></span>,&#32;<span data-wikidata-claim-id="Q579612$F56C4E9F-27BA-4F49-B0CD-611F8421F7EE" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B0%D1%80" title="Видар">Видар</a></span></span>&#32;и&#32;<span data-wikidata-claim-id="Q579612$A58A7770-38F2-4F82-ADBF-B36057683A43" class="wikidata-claim" data-wikidata-property-id="P3373"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Вали (мифология)">Вали</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">В&#160;иных культурах</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P460" class="no-wikidata"><a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B5%D1%81" title="Гермес">Гермес</a>, <a href="/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D1%83%D1%80%D0%B8%D0%B9_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Меркурий (мифология)">Меркурий</a></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q579612$c9b4265e-49cf-fea1-fc6a-949e61896626" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Herm%C3%B3%C3%B0r" title="commons:Category:Hermóðr"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Herm%C3%B3%C3%B0r" class="extiw" title="commons:Category:Hermóðr">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Хе́рмод</b> (<i>«Храбрый»</i>)&#160;— персонаж <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" class="mw-redirect" title="Германо-скандинавская мифология">скандинавской мифологии</a>, один из <a href="/wiki/%D0%90%D1%81%D1%8B" title="Асы">асов</a>, посланник <a href="/wiki/%D0%9E%D0%B4%D0%B8%D0%BD" title="Один">Одина</a>, бог скорости. Фигурирует в «<a href="/wiki/%D0%9C%D0%BB%D0%B0%D0%B4%D1%88%D0%B0%D1%8F_%D0%AD%D0%B4%D0%B4%D0%B0#Видение_Гюльви_(Gylfaginning)" title="Младшая Эдда">Видении Гюльви</a>» <a href="/wiki/%D0%A1%D0%BD%D0%BE%D1%80%D1%80%D0%B8_%D0%A1%D1%82%D1%83%D1%80%D0%BB%D1%83%D1%81%D0%BE%D0%BD" title="Снорри Стурлусон">Снорри Стурлусона</a>. Символизирует собой мудрость. По преданию, когда все Асы собрались вместе, они плюнули в кувшин, из которого впоследствии появился Хермод Слюнявый по версии Jionas Pulich.
+</p><p>В честь Хермода названы борозды на <a href="/wiki/%D0%9F%D0%BB%D1%83%D1%82%D0%BE%D0%BD" title="Плутон">Плутоне</a> (название утверждено <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Международный астрономический союз">МАС</a> 25 сентября 2019&#160;года)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Treated_NKS_hermodr.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Treated_NKS_hermodr.jpg/220px-Treated_NKS_hermodr.jpg" decoding="async" width="220" height="282" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Treated_NKS_hermodr.jpg/330px-Treated_NKS_hermodr.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Treated_NKS_hermodr.jpg/440px-Treated_NKS_hermodr.jpg 2x" data-file-width="604" data-file-height="774" /></a><figcaption>Встреча Хермода с Бальдром и Хель</figcaption></figure>
+<p>После того, как <a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%B4%D1%80" title="Бальдр">Бальдр</a> был убит, Один решил вернуть его в <a href="/wiki/%D0%90%D1%81%D0%B3%D0%B0%D1%80%D0%B4" title="Асгард">Асгард</a> из царства мёртвых <a href="/wiki/%D0%A5%D0%B5%D0%BB%D1%8C%D1%85%D0%B5%D0%B9%D0%BC" title="Хельхейм">Хельхейм</a>. Для этого он дал Хермоду своего коня <a href="/wiki/%D0%A1%D0%BB%D0%B5%D0%B9%D0%BF%D0%BD%D0%B8%D1%80" title="Слейпнир">Слейпнира</a> и велел отправиться к повелительнице мёртвых <a href="/wiki/%D0%A5%D0%B5%D0%BB%D1%8C" title="Хель">Хель</a> и предложить ей выкуп за Бальдра. Хель согласилась отпустить его, если весь мир, все вещи и существа в нём будут оплакивать Бальдра, а также разрешила Хермоду вернуть в Асгард чудесное кольцо Одина, которое тот в порыве отчаяния надел на палец мертвого сына. Однако вмешался <a href="/wiki/%D0%9B%D0%BE%D0%BA%D0%B8" title="Локи">Локи</a>, превратившись в великаншу, которая отказалась оплакивать Бальдра. И Бальдр остался в мире мёртвых. Перед отъездом Хермода Бальдр передал через него Одину перстень <a href="/wiki/%D0%94%D1%80%D0%B0%D1%83%D0%BF%D0%BD%D0%B8%D1%80" title="Драупнир">Драупнир</a>, который был похоронен вместе с ним.
+</p><p>Однажды Хермод чуть не погиб по дороге в Мидгард, землю людей. Обеспокоенный предсказаниями о своем будущем, Один послал его в чужедальние края к финскому мудрецу <a href="/w/index.php?title=%D0%A0%D0%BE%D1%81%D1%81%D1%82%D1%8C%D0%BE%D1%84&amp;action=edit&amp;redlink=1" class="new" title="Росстьоф (страница отсутствует)">Росстьофу</a> за советом. С помощью волшебства Хермод был спасён и поспешил вернуться в Асгард, чтобы успокоить отца. В греческой мифологии ему в некоторой степени соответствует вестник богов <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B5%D1%81" title="Гермес">Гермес</a>, также являющийся богом скорости.
+</p><p>В более поздних мифах есть упоминание о том, что бог Хермод обладал неким магическим артефактом, палицей, что звалась Гамбантин, однако свойства этого оружия неизвестны. Также в «Песне о Хюндле» из «Старшей Эдды» сказано, что Всеотец вручил Хермоду «шлем и крепкую броню». Позже этот мифологический образ неоднократно появлялся в творениях английских поэтов (в качестве примера можно привести стихи <a href="/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B5%D1%80-%D0%9B%D0%B8%D1%82%D1%82%D0%BE%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82" title="Бульвер-Литтон, Роберт">Оуэна Мередита</a> и поэму «Смерть Бальдра» <a href="/wiki/%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D0%B4,_%D0%9C%D1%8D%D1%82%D1%8C%D1%8E" title="Арнолд, Мэтью">Мэтью Арнолда</a>).
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=edit&amp;section=1" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_859617d3e630f19c-1"><span class="mw-cite-backlink"><a href="#cite_ref-_859617d3e630f19c_1-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q602358"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" class="extiw" title="s:Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь</a><span class="wef_low_priority_links"> / под ред. <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Андреевский, Иван Ефимович">И.&#160;Е.&#160;Андреевский</a>, <a href="/wiki/%D0%90%D1%80%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Арсеньев, Константин Константинович">К.&#160;К.&#160;Арсеньев</a>, <a href="/wiki/%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%A4%D0%BE%D0%BC%D0%B8%D1%87" title="Петрушевский, Фёдор Фомич">Ф.&#160;Ф.&#160;Петрушевский</a> — <span title="Санкт-Петербург" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">СПб.</span>: <a href="/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7_%E2%80%94_%D0%95%D1%84%D1%80%D0%BE%D0%BD_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Брокгауз — Ефрон (издательство)">Брокгауз — Ефрон</a>.</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://planetarynames.wr.usgs.gov/Feature/15861">№15861</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Gazetteer of Planetary Nomenclature</i>.&#32;IAU Working Group for Planetary System Nomenclature.</span>
+</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=edit&amp;section=2" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r141305934">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><span data-wikidata-qualifier-id="P248"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%93%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" class="extiw" title="s:ЭСБЕ/Гермод">Гермод</a></span>&#32;&#47;&#47;&#32;<a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D0%91%D1%80%D0%BE%D0%BA%D0%B3%D0%B0%D1%83%D0%B7%D0%B0_%D0%B8_%D0%95%D1%84%D1%80%D0%BE%D0%BD%D0%B0" title="Энциклопедический словарь Брокгауза и Ефрона">Энциклопедический словарь Брокгауза и Ефрона</a>&#160;: в 86&#160;т. (82&#160;т. и 4&#160;доп.).&#160;— <abbr title="Санкт-Петербург">СПб.</abbr>, 1890—1907.</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Асы" data-name="Асы"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D1%81%D1%8B" title="Перейти к шаблону «Асы»"><img alt="Перейти к шаблону «Асы»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Асы" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%90%D1%81%D1%8B" title="Асы">Асы</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Боги</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%85%D1%80%D0%B8%D0%BC%D0%BD%D0%B8%D1%80" title="Андхримнир">Андхримнир</a></li>
+<li><a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%B4%D1%80" title="Бальдр">Бальдр</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D1%80_(%D0%B1%D0%BE%D0%B3)" title="Бор (бог)">Бор</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B0%D0%B3%D0%B8" title="Браги">Браги</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B8_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Бури (мифология)">Бури</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D0%BB%D0%B8_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Вали (мифология)">Вали</a></li>
+<li><a href="/wiki/%D0%92%D0%B5" title="Ве">Ве</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B0%D1%80" title="Видар">Видар</a></li>
+<li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%B8" title="Вили">Вили</a></li>
+<li><a href="/wiki/%D0%94%D0%B0%D0%B3%D1%80" title="Дагр">Дагр</a></li>
+<li><a href="/wiki/%D0%94%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3" title="Деллинг">Деллинг</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D0%B4%D1%83%D1%80" title="Лодур">Лодур</a></li>
+<li><a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8" title="Магни">Магни</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B9%D0%BB%D0%B8_(%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Мейли (скандинавская мифология)">Мейли</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B8_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Моди (мифология)">Моди</a></li>
+<li><a href="/wiki/%D0%9E%D0%B4_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Од (мифология)">Од</a></li>
+<li><a href="/wiki/%D0%9E%D0%B4%D0%B8%D0%BD" title="Один">Один</a></li>
+<li><a href="/wiki/%D0%A0%D0%B8%D0%B3_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Риг (мифология)">Риг</a></li>
+<li><a href="/wiki/%D0%A2%D0%BE%D1%80_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Тор (мифология)">Тор</a></li>
+<li><a href="/wiki/%D0%A2%D1%8E%D1%80" title="Тюр">Тюр</a></li>
+<li><a href="/wiki/%D0%A3%D0%BB%D0%BB%D1%8C" title="Улль">Улль</a></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D1%81%D0%B5%D1%82%D0%B8" title="Форсети">Форсети</a></li>
+<li><a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%BC%D0%B4%D0%B0%D0%BB%D0%BB%D1%8C" title="Хеймдалль">Хеймдалль</a></li>
+<li><a href="/wiki/%D0%A5%D1%91%D0%BD%D0%B8%D1%80" title="Хёнир">Хёнир</a></li>
+<li><a class="mw-selflink selflink">Хермод</a></li>
+<li><a href="/wiki/%D0%A5%D1%91%D0%B4" title="Хёд">Хёд</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Богини</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%B8%D0%BB%D1%8C_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Биль (богиня)">Биль</a></li>
+<li><a href="/wiki/%D0%92%D0%B0%D1%80_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Вар (мифология)">Вар</a></li>
+<li><a href="/wiki/%D0%92%D1%91%D1%80_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Вёр (богиня)">Вёр</a></li>
+<li><a href="/wiki/%D0%93%D0%B5%D0%B2%D1%8C%D0%BE%D0%BD" title="Гевьон">Гефион</a></li>
+<li><a href="/wiki/%D0%93%D0%BB%D0%B8%D0%BD_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Глин (богиня)">Глин</a></li>
+<li><a href="/wiki/%D0%93%D0%BD%D0%B0" title="Гна">Гна</a></li>
+<li><a href="/wiki/%D0%81%D1%80%D0%B4" title="Ёрд">Ёрд</a></li>
+<li><a href="/wiki/%D0%98%D0%B4%D1%83%D0%BD%D0%BD" title="Идунн">Идунн</a></li>
+<li><a href="/wiki/%D0%9B%D0%BE%D1%84%D0%BD" title="Лофн">Лофн</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D0%BD%D0%BD%D0%B0_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Нанна (богиня)">Нанна</a></li>
+<li><a href="/wiki/%D0%9D%D0%BE%D1%82%D1%82" title="Нотт">Нотт</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%B3%D0%B0_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Сага (богиня)">Сага</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%BD_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Син (богиня)">Син</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D1%84_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Сиф (богиня)">Сиф</a></li>
+<li><a href="/wiki/%D0%A1%D0%B8%D0%B3%D1%8E%D0%BD" title="Сигюн">Сигюн</a></li>
+<li><a href="/wiki/%D0%A1%D0%BD%D0%BE%D1%82%D1%80%D0%B0" title="Снотра">Снотра</a></li>
+<li><a href="/wiki/%D0%A1%D1%8C%D1%91%D1%84%D0%BD" title="Сьёфн">Сьёфн</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%83%D0%B4_(%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Труд (мифология)">Труд</a></li>
+<li><a href="/wiki/%D0%A4%D1%80%D0%B8%D0%B3%D0%B3" title="Фригг">Фригг</a></li>
+<li><a href="/wiki/%D0%A4%D1%83%D0%BB%D0%BB%D0%B0" title="Фулла">Фулла</a></li>
+<li><a href="/wiki/%D0%AD%D0%B9%D1%80_(%D0%B1%D0%BE%D0%B3%D0%B8%D0%BD%D1%8F)" title="Эйр (богиня)">Эйр</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Существа</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D1%81%D0%B8%D1%80" title="Квасир">Квасир</a></li></ul>
+</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r137874932">.mw-parser-output .ambox{border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><table class="mbox-Stub-meta plainlinks metadata ambox ambox-style" role="presentation" style="border:0; background:none; color:inherit; margin:0; font-style:italic;"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Norse_template.gif" class="mw-file-description"><img alt="Один на Слейпнире" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Norse_template.gif/40px-Norse_template.gif" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/8/89/Norse_template.gif 1.5x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a>&#32;по <a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Скандинавская мифология">германо-скандинавской мифологии</a>. Помогите Википедии, дополнив её.</div><div class="mbox-textsmall-div hide-when-compact"></div></td></tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r137874932" /><table class="mbox-Нет_источников plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/48px-Question_book-4.svg.png" decoding="async" width="48" height="37" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/72px-Question_book-4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Question_book-4.svg/96px-Question_book-4.svg.png 2x" data-file-width="262" data-file-height="204" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">ссылок на источники</a></b> (см. <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Википедия:Поиск источников">рекомендации по поиску</a>).</div><div class="mbox-textsmall-div hide-when-compact"><span class="hide-when-compact"> Информация должна быть <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">проверяема</a>, иначе она может быть удалена. Вы можете <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=edit">отредактировать</a> статью, добавив ссылки на <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">авторитетные источники</a> в виде <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a>.</span>  <span class="mbox-date"><i>(<span class="date">7 июня 2019</span>)</i></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7fd96bd568‐95vb5
+Cached time: 20250316175139
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.318 seconds
+Real time usage: 0.525 seconds
+Preprocessor visited node count: 1865/1000000
+Post‐expand include size: 41480/2097152 bytes
+Template argument size: 3482/2097152 bytes
+Highest expansion depth: 17/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8730/5000000 bytes
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 4947285/52428800 bytes
+Number of Wikibase entities loaded: 20/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  466.555      1 -total
+ 70.25%  327.768      1 Шаблон:Мифологический_персонаж
+ 66.55%  310.497      1 Шаблон:Карточка
+ 30.02%  140.039      6 Шаблон:Wikidata
+ 11.18%   52.184      1 Шаблон:Norse-myth-stub
+ 10.56%   49.282      1 Шаблон:Stub-meta
+ 10.42%   48.618      2 Шаблон:Ambox
+  7.31%   34.091      1 Шаблон:Карточка/оригинал_имени
+  7.10%   33.121      1 Шаблон:ВТ-ЭСБЕ
+  6.45%   30.084      1 Шаблон:Книга
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:1022124:|#|:idhash:canonical and timestamp 20250316175139 and revision id 130920615. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://auth.wikimedia.org/loginwiki/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Хермод&amp;oldid=130920615">https://ru.wikipedia.org/w/index.php?title=Хермод&amp;oldid=130920615</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персонажи по алфавиту">Персонажи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мифологические персонажи по алфавиту">Мифологические персонажи по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D1%81%D1%8B" title="Категория:Асы">Асы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D0%B3%D0%B8-%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8" title="Категория:Боги-вестники">Боги-вестники</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Боги по алфавиту">Боги по алфавиту</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Мифология:Последняя правка: в позапрошлом году">ПРО:Мифология:Последняя правка: в позапрошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE-%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Категория:Незавершённые статьи по германо-скандинавской мифологии">Незавершённые статьи по германо-скандинавской мифологии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D1%81_%D0%B8%D1%8E%D0%BD%D1%8F_2019_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без ссылок на источники с июня 2019 года">Википедия:Статьи без ссылок на источники с июня 2019 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_(%D1%82%D0%B8%D0%BF:_%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE)" title="Категория:Википедия:Статьи без источников (тип: скандинавское божество)">Википедия:Статьи без источников (тип: скандинавское божество)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;oldid=130920615" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;id=130920615&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A5%25D0%25B5%25D1%2580%25D0%25BC%25D0%25BE%25D0%25B4"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A5%25D0%25B5%25D1%2580%25D0%25BC%25D0%25BE%25D0%25B4"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Herm%C3%B3%C3%B0r" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q579612" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%87%D9%8A%D8%B1%D9%85%D9%88%D8%AF%D8%B1" title="هيرمودر — арабский" lang="ar" hreflang="ar" data-title="هيرمودر" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A5%D1%8D%D1%80%D0%BC%D0%BE%D0%B4" title="Хэрмод — белорусский" lang="be" hreflang="be" data-title="Хэрмод" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — каталанский" lang="ca" hreflang="ca" data-title="Hermóðr" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Herm%C3%B3d" title="Hermód — чешский" lang="cs" hreflang="cs" data-title="Hermód" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hermod" title="Hermod — датский" lang="da" hreflang="da" data-title="Hermod" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Hermodr" title="Hermodr — немецкий" lang="de" hreflang="de" data-title="Hermodr" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A7%CE%AD%CF%81%CE%BC%CE%BF%CE%BD%CF%84" title="Χέρμοντ — греческий" lang="el" hreflang="el" data-title="Χέρμοντ" data-language-autonym="Ελληνικά" data-language-local-name="греческий" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — английский" lang="en" hreflang="en" data-title="Hermóðr" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — испанский" lang="es" hreflang="es" data-title="Hermóðr" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — баскский" lang="eu" hreflang="eu" data-title="Hermóðr" data-language-autonym="Euskara" data-language-local-name="баскский" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%B1%D9%85%D9%88%D8%AF_(%D8%A7%D8%B3%D8%B7%D9%88%D8%B1%D9%87)" title="هرمود (اسطوره) — персидский" lang="fa" hreflang="fa" data-title="هرمود (اسطوره)" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Hermod" title="Hermod — финский" lang="fi" hreflang="fi" data-title="Hermod" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Hermod" title="Hermod — французский" lang="fr" hreflang="fr" data-title="Hermod" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Hermod" title="Hermod — галисийский" lang="gl" hreflang="gl" data-title="Hermod" data-language-autonym="Galego" data-language-local-name="галисийский" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%A8%D7%9E%D7%95%D7%9C%D7%93" title="הרמולד — иврит" lang="he" hreflang="he" data-title="הרמולד" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Hermod" title="Hermod — хорватский" lang="hr" hreflang="hr" data-title="Hermod" data-language-autonym="Hrvatski" data-language-local-name="хорватский" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Hermod" title="Hermod — венгерский" lang="hu" hreflang="hu" data-title="Hermod" data-language-autonym="Magyar" data-language-local-name="венгерский" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Herm%C3%B3%C3%B0ur_hinn_hvati" title="Hermóður hinn hvati — исландский" lang="is" hreflang="is" data-title="Hermóður hinn hvati" data-language-autonym="Íslenska" data-language-local-name="исландский" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — итальянский" lang="it" hreflang="it" data-title="Hermóðr" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%A2%E3%83%BC%E3%82%BA" title="ヘルモーズ — японский" lang="ja" hreflang="ja" data-title="ヘルモーズ" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%97%A4%EB%A5%B4%EB%AA%A8%EB%93%9C" title="헤르모드 — корейский" lang="ko" hreflang="ko" data-title="헤르모드" data-language-autonym="한국어" data-language-local-name="корейский" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Hermods" title="Hermods — латышский" lang="lv" hreflang="lv" data-title="Hermods" data-language-autonym="Latviešu" data-language-local-name="латышский" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mni mw-list-item"><a href="https://mni.wikipedia.org/wiki/%EA%AF%8D%EA%AF%A6%EA%AF%94%EA%AF%83%EA%AF%A3%EA%AF%97%EA%AF%94" title="ꯍꯦꯔꯃꯣꯗꯔ — манипурский" lang="mni" hreflang="mni" data-title="ꯍꯦꯔꯃꯣꯗꯔ" data-language-autonym="ꯃꯤꯇꯩ ꯂꯣꯟ" data-language-local-name="манипурский" class="interlanguage-link-target"><span>ꯃꯤꯇꯩ ꯂꯣꯟ</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Hermod_(mythologie)" title="Hermod (mythologie) — нидерландский" lang="nl" hreflang="nl" data-title="Hermod (mythologie)" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Hermod" title="Hermod — норвежский букмол" lang="nb" hreflang="nb" data-title="Hermod" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Hermod" title="Hermod — польский" lang="pl" hreflang="pl" data-title="Hermod" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Hermodr" title="Hermodr — португальский" lang="pt" hreflang="pt" data-title="Hermodr" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — сербскохорватский" lang="sh" hreflang="sh" data-title="Hermóðr" data-language-autonym="Srpskohrvatski / српскохрватски" data-language-local-name="сербскохорватский" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — Simple English" lang="en-simple" hreflang="en-simple" data-title="Hermóðr" data-language-autonym="Simple English" data-language-local-name="Simple English" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Hermod" title="Hermod — шведский" lang="sv" hreflang="sv" data-title="Hermod" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — турецкий" lang="tr" hreflang="tr" data-title="Hermóðr" data-language-autonym="Türkçe" data-language-local-name="турецкий" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%BE%D0%B4" title="Гермод — украинский" lang="uk" hreflang="uk" data-title="Гермод" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Herm%C3%B3%C3%B0r" title="Hermóðr — вьетнамский" lang="vi" hreflang="vi" data-title="Hermóðr" data-language-autonym="Tiếng Việt" data-language-local-name="вьетнамский" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%B5%AB%E7%88%BE%E8%8E%AB%E5%BE%B7" title="赫爾莫德 — китайский" lang="zh" hreflang="zh" data-title="赫爾莫德" data-language-autonym="中文" data-language-local-name="китайский" class="interlanguage-link-target"><span>中文</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q579612#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 8 июня 2023 в 07:46.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-5fc49f697b-rdhdj","wgBackendResponseTime":137,"wgPageParseReport":{"limitreport":{"cputime":"0.318","walltime":"0.525","ppvisitednodes":{"value":1865,"limit":1000000},"postexpandincludesize":{"value":41480,"limit":2097152},"templateargumentsize":{"value":3482,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8730,"limit":5000000},"entityaccesscount":{"value":20,"limit":400},"timingprofile":["100.00%  466.555      1 -total"," 70.25%  327.768      1 Шаблон:Мифологический_персонаж"," 66.55%  310.497      1 Шаблон:Карточка"," 30.02%  140.039      6 Шаблон:Wikidata"," 11.18%   52.184      1 Шаблон:Norse-myth-stub"," 10.56%   49.282      1 Шаблон:Stub-meta"," 10.42%   48.618      2 Шаблон:Ambox","  7.31%   34.091      1 Шаблон:Карточка/оригинал_имени","  7.10%   33.121      1 Шаблон:ВТ-ЭСБЕ","  6.45%   30.084      1 Шаблон:Книга"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":4947285,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P3373 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1049 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P2925 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P21 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P460 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-7fd96bd568-95vb5","timestamp":"20250316175139","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0425\u0435\u0440\u043c\u043e\u0434","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A5%D0%B5%D1%80%D0%BC%D0%BE%D0%B4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q579612","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q579612","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-02-18T07:19:42Z","dateModified":"2023-06-08T07:46:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/Treated_NKS_hermodr.jpg"}</script>
+</body>
+</html>

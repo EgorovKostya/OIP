@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Каньяс, Роджер — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"1cba3ff4-a1a9-40bd-b1c8-8402b8e0bb32","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Каньяс,_Роджер","wgTitle":"Каньяс, Роджер","wgCurRevisionId":143140019,"wgRevisionId":143140019,"wgArticleId":2625785,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с нерабочими ссылками","Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности","Википедия:Статьи с источниками из Викиданных","Википедия:Биографии современников","Проект:Футбол:Последняя правка в 2025 году","Википедия:Статьи без изображений (тип: человек; род занятий: футболист)","Родившиеся 27 марта","Родившиеся в 1990 году","Родившиеся в Медельине","Персоналии по алфавиту","Спортсмены по алфавиту","Футболисты по алфавиту","Футболисты Колумбии","Игроки ФК «Индепендьенте Медельин»","Игроки ФК «Транзит»","Игроки ФК «Сибирь»","Игроки ФК «Ягеллония»","Игроки ФК «Шахтёр» Караганда","Игроки ФК «Астана» (2009)","Игроки ФК АПОЭЛ","Игроки ФК «Ордабасы»","Игроки ФК «Шахтёр» Солигорск","Игроки ФК «Иртыш» Павлодар","Игроки ФК «Барнечеа»"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Каньяс,_Роджер","wgRelevantArticleId":2625785,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":143140019,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q348694","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.23">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Каньяс, Роджер — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Каньяс_Роджер rootpage-Каньяс_Роджер skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Каньяс, Роджер</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Каньяс (значения)">Каньяс</a>.</div>
+<style data-mw-deduplicate="TemplateStyles:r140508140">.mw-parser-output .ts-infobox-flaginfo{background:none;border-collapse:collapse;display:table;text-align:center;width:100%}.mw-parser-output .ts-infobox-flaginfo td{vertical-align:middle}body.skin--responsive.skin-minerva.skin-minerva .mw-parser-output .ts-infobox-flaginfo td{border-bottom:0;vertical-align:middle}.mw-parser-output .infobox-table,.mw-parser-output .infobox-tablebox{padding:0}.mw-parser-output .infobox-inner-table,.mw-parser-output .infobox-table>table,.mw-parser-output .infobox-tablebox>table{width:100%;display:table;margin:0;background:transparent}.mw-parser-output .infobox-tablebox>table{border:1px solid var(--border-color-base,#a2a9b1);border-collapse:separate}.mw-parser-output .infobox-child{width:100%;margin:0;padding:0;border:none;font-size:100%}body.skin-minerva .mw-parser-output table.infobox-child{width:100%!important;margin:0!important;padding:0;border:none;font-size:100%}</style>
+<style data-mw-deduplicate="TemplateStyles:r137839861">.mw-parser-output .ts-Спортивная_карьера-table{width:100%!important;display:table;margin:0 0 -2px;border-collapse:separate;text-align:left}.mw-parser-output .ts-Спортивная_карьера-table th{text-align:center}.mw-parser-output .ts-Спортивная_карьера-table td:nth-child(1){width:27%}.mw-parser-output .ts-Спортивная_карьера-table td:nth-child(3){width:20%}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr:nth-child(odd){background-color:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr:nth-child(even){background-color:var(--background-color-neutral,#eff1f3)}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr.odd{background-color:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .ts-Спортивная_карьера-table.stripped tr.even{background-color:var(--background-color-neutral,#eff1f3)}body.skin-minerva .mw-parser-output .ts-Спортивная_карьера-table.stripped tr{background-color:transparent}</style>
+<style data-mw-deduplicate="TemplateStyles:r139874330/mw-parser-output/.infobox-17a3429fa671a7f5">.mw-parser-output .infobox-17a3429fa671a7f5 .infobox-above{background:#99cc99}.mw-parser-output .infobox-17a3429fa671a7f5 .infobox-header{background:#d5efd5}.mw-parser-output .infobox-17a3429fa671a7f5 .infobox-below{background:var(--background-color-neutral,#eaecf0)}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-17a3429fa671a7f5 .infobox-above{background:#224422}html.skin-theme-clientpref-night .mw-parser-output .infobox-17a3429fa671a7f5 .infobox-header{background:#123012}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-17a3429fa671a7f5 .infobox-above{background:#224422}html.skin-theme-clientpref-os .mw-parser-output .infobox-17a3429fa671a7f5 .infobox-header{background:#123012}}</style><table class="infobox infobox-17a3429fa671a7f5" style="font-size:96%;" data-name="Футболист"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="font-size:110%;"><style data-mw-deduplicate="TemplateStyles:r113288029">.mw-parser-output .ts_Спортсмен_имя{position:relative}.mw-parser-output .ts_Спортсмен_имя .icon{display:flex;align-items:center;position:absolute;top:0;bottom:0;left:0}.mw-parser-output .ts_Спортсмен_имя .icon img{display:block}.mw-parser-output .ts_Спортсмен_имя .label{margin:0 2em}@media(min-width:720px){.mw-parser-output .ts_Спортсмен_имя{margin:.15em}}body.skin-minerva .mw-parser-output .ts_Спортсмен_имя{margin:0}</style><div class="ts_Спортсмен_имя"><div class="icon skin-invert-image" style=""><span class="noviewer noresize" typeof="mw:File"><span title="Футбол"><img alt="Футбол" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccerball_mark.svg/20px-Soccerball_mark.svg.png" decoding="async" width="20" height="18" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soccerball_mark.svg/40px-Soccerball_mark.svg.png 1.5x" data-file-width="512" data-file-height="459" /></span></span></div><div class="label">Роджер Каньяс</div></div></th></tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Полное имя</th>
+<td class="plainlist" style="text-align:left;">
+Роджер Каньяс Энао<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Прозвище</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-claim-id="Q348694$ebf9c4a1-424a-2ddc-7f7e-938390f675d8" class="wikidata-claim" data-wikidata-property-id="P1449"><span class="wikidata-snak wikidata-main-snak"><span class="lang" lang="ru">Ихо</span></span><sup id="cite_ref-_f98fbf607c01d78b_6-0" class="reference"><a href="#cite_note-_f98fbf607c01d78b-6"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Родился</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-claim-id="Q348694$722993D2-477A-4356-B624-BA0AFCAD484C" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/27_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="27 марта">27 марта</a> <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990</a></span><span style="display:none">(<span class="bday">1990-03-27</span>)</span></span><sup id="cite_ref-_7aecf3cc37c71581_2-0" class="reference"><a href="#cite_note-_7aecf3cc37c71581-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_fe2a7514c76068f4_3-0" class="reference"><a href="#cite_note-_fe2a7514c76068f4-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q348694#P569" class="extiw" title="d:Q348694">[…]</a></sup> <span style="white-space:nowrap;">(35 лет)</span></span><br /><ul><li><span data-wikidata-claim-id="Q348694$95B7A152-EA45-4D79-951D-5E42EA230315" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD" title="Медельин">Медельин</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">Колумбия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Гражданство</th>
+<td class="plainlist" style="text-align:left;">
+<ul><li><span data-wikidata-claim-id="Q348694$7E39211F-054F-4B8F-98DD-08597FECF721" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D1%8F" title="Колумбия">Колумбия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Рост</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-claim-id="Q348694$FCD1C0B8-7CA2-45C4-AE47-AA55F9E3CBBA" class="wikidata-claim" data-wikidata-property-id="P2048"><span class="wikidata-snak wikidata-main-snak">190&#160;см</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:7em; white-space:nowrap; text-align:left;">Позиция</th>
+<td class="plainlist" style="text-align:left;">
+<span data-wikidata-property-id="P413" class="no-wikidata">полузащитник</span></td>
+</tr>
+<tr>
+<td colspan="2" class="infobox-table plainlist" style="text-align:center;text-align:left;">
+<table class="ts-Спортивная_карьера-table threecolumns stripped">
+
+
+<tbody><tr>
+<th scope="colgroup" class="infobox-header" colspan="3">Молодёжные клубы
+</th></tr>
+
+<tr class="nowrap odd">
+<td>
+</td>
+<td colspan="2"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="mw-file-description" title="Флаг Колумбии"><img alt="Флаг Колумбии" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span> <a href="/w/index.php?title=%D0%90%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%BE_%D0%A3%D1%80%D0%B0%D0%B1%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Атлетико Ураба (страница отсутствует)">Атлетико Ураба</a>
+</td></tr>
+<tr class="nowrap even">
+<td>
+</td>
+<td colspan="2"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="mw-file-description" title="Флаг Колумбии"><img alt="Флаг Колумбии" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BF%D0%B5%D0%BD%D0%B4%D1%8C%D0%B5%D0%BD%D1%82%D0%B5" title="Индепендьенте">Индепендьенте</a>
+</td></tr>
+
+
+
+
+<tr>
+<th scope="colgroup" class="infobox-header" colspan="3">Клубная карьера<sup id="cite_ref-club2_4-0" class="reference"><a href="#cite_note-club2-4"><span class="cite-bracket">&#91;</span>* 1<span class="cite-bracket">&#93;</span></a></sup>
+</th></tr>
+
+<tr class="nowrap odd">
+<td>2009
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="mw-file-description" title="Флаг Колумбии"><img alt="Флаг Колумбии" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BF%D0%B5%D0%BD%D0%B4%D1%8C%D0%B5%D0%BD%D1%82%D0%B5_%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD" title="Индепендьенте Медельин">Индепендьенте Медельин</a>
+</td>
+<td>29 (0)
+</td></tr>
+<tr class="nowrap even">
+<td>2010
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Latvia.svg" class="mw-file-description" title="Флаг Латвии"><img alt="Флаг Латвии" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/20px-Flag_of_Latvia.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/40px-Flag_of_Latvia.svg.png 1.5x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Транзит (футбольный клуб)">Транзит</a>
+</td>
+<td>4 (1)
+</td></tr>
+<tr class="nowrap odd">
+<td>2010—2011
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Russia.svg" class="mw-file-description" title="Флаг России"><img alt="Флаг России" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA)" title="Сибирь (футбольный клуб, Новосибирск)">Сибирь (Новосибирск)</a>
+</td>
+<td>27 (0)
+</td></tr>
+<tr class="nowrap even">
+<td>2011
+</td>
+<td><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Аренда">→</span>&#160;<span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Poland.svg" class="mw-file-description" title="Флаг Польши"><img alt="Флаг Польши" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/20px-Flag_of_Poland.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/30px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/40px-Flag_of_Poland.svg.png 2x" data-file-width="640" data-file-height="400" /></a></span> <a href="/wiki/%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F" title="Ягеллония">Ягеллония</a>
+</td>
+<td>0 (0)
+</td></tr>
+<tr class="nowrap odd">
+<td>2012—2013
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="mw-file-description" title="Флаг Казахстана"><img alt="Флаг Казахстана" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 1.5x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0)" title="Шахтёр (футбольный клуб, Караганда)">Шахтёр (Караганда)</a>
+</td>
+<td>52 (7)
+</td></tr>
+<tr class="nowrap even">
+<td>2014—2017
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="mw-file-description" title="Флаг Казахстана"><img alt="Флаг Казахстана" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 1.5x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_2009)" title="Астана (футбольный клуб, 2009)">Астана</a>
+</td>
+<td>91 (12)
+</td></tr>
+<tr class="nowrap odd">
+<td>2016—2017
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842" /><span class="ts-comment-commentedText" title="Аренда">→</span>&#160;<span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Cyprus.svg" class="mw-file-description" title="Флаг Кипра"><img alt="Флаг Кипра" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/20px-Flag_of_Cyprus.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/30px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/40px-Flag_of_Cyprus.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/%D0%90%D0%9F%D0%9E%D0%AD%D0%9B_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="АПОЭЛ (футбольный клуб)">АПОЭЛ</a>
+</td>
+<td>13 (1)
+</td></tr>
+<tr class="nowrap even">
+<td>2017
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="mw-file-description" title="Флаг Казахстана"><img alt="Флаг Казахстана" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 1.5x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B0%D0%B1%D0%B0%D1%81%D1%8B" title="Ордабасы">Ордабасы</a>
+</td>
+<td>12 (0)
+</td></tr>
+<tr class="nowrap odd">
+<td>2018
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Belarus.svg" class="mw-file-description" title="Флаг Беларуси"><img alt="Флаг Беларуси" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/20px-Flag_of_Belarus.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/40px-Flag_of_Belarus.svg.png 1.5x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA)" title="Шахтёр (футбольный клуб, Солигорск)">Шахтёр (Солигорск)</a>
+</td>
+<td>16 (0)
+</td></tr>
+<tr class="nowrap even">
+<td>2019
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="mw-file-description" title="Флаг Казахстана"><img alt="Флаг Казахстана" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 1.5x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/%D0%98%D1%80%D1%82%D1%8B%D1%88_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B4%D0%B0%D1%80)" title="Иртыш (футбольный клуб, Павлодар)">Иртыш (Павлодар)</a>
+</td>
+<td>15 (3)
+</td></tr>
+<tr class="nowrap odd">
+<td>2021
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Chile.svg" class="mw-file-description" title="Флаг Чили"><img alt="Флаг Чили" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/20px-Flag_of_Chile.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%91%D0%B0%D1%80%D0%BD%D0%B5%D1%87%D0%B5%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Барнечеа (футбольный клуб)">Барнечеа</a>
+</td>
+<td>15 (1)
+</td></tr>
+<tr class="nowrap even">
+<td>2022—2024
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Kazakhstan.svg" class="mw-file-description" title="Флаг Казахстана"><img alt="Флаг Казахстана" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/20px-Flag_of_Kazakhstan.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png 1.5x" data-file-width="1000" data-file-height="500" /></a></span> <a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0)" title="Шахтёр (футбольный клуб, Караганда)">Шахтёр (Караганда)</a>
+</td>
+<td>70 (6)
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<th scope="colgroup" class="infobox-header" colspan="3">Национальная сборная<sup id="cite_ref-national_5-0" class="reference"><a href="#cite_note-national-5"><span class="cite-bracket">&#91;</span>* 2<span class="cite-bracket">&#93;</span></a></sup>
+</th></tr>
+
+<tr class="nowrap odd">
+<td>
+</td>
+<td><span class="mw-image-border" typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Colombia.svg" class="mw-file-description" title="Флаг Колумбии"><img alt="Флаг Колумбии" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png 1.5x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D1%91%D0%B6%D0%BD%D0%B0%D1%8F_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Молодёжная сборная Колумбии по футболу">Колумбия (до 20)</a>
+</td>
+<td>12 (3)
+</td></tr>
+
+
+
+
+
+
+
+</tbody></table></td>
+</tr>
+<tr>
+<td colspan="2" class="noplainlist" style="text-align:center;text-align:left;padding:0.2em 0 0; font-size:80%; color:var(--color-subtle, #54595d);">
+<ol class="references">
+<li id="cite_note-club2-4"><span class="mw-cite-backlink"><a href="#cite_ref-club2_4-0">↑</a></span> <span class="reference-text"> Количество игр и голов за профессиональный клуб считается только для различных лиг национальных чемпионатов, обновлено по состоянию на <span class="nowrap">1 декабря 2024 года</span>. </span>
+</li>
+<li id="cite_note-national-5"><span class="mw-cite-backlink"><a href="#cite_ref-national_5-0">↑</a></span> <span class="reference-text"> Количество игр и голов за национальную сборную в официальных матчах. </span>
+</li>
+</ol></td>
+</tr>
+</tbody></table>
+<p><b>Ро́джер Ка́ньяс Эна́о</b> (<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Испанский язык">исп.</a>&#160;<span lang="es" style="font-style:italic;">Roger Cañas Henao</span>; род. <span data-wikidata-claim-id="Q348694$722993D2-477A-4356-B624-BA0AFCAD484C" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/27_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="27 марта">27 марта</a> <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990</a></span></span><sup id="cite_ref-_7aecf3cc37c71581_2-1" class="reference"><a href="#cite_note-_7aecf3cc37c71581-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_fe2a7514c76068f4_3-1" class="reference"><a href="#cite_note-_fe2a7514c76068f4-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q348694#P569" class="extiw" title="d:Q348694">[…]</a></sup></span>, <span data-wikidata-claim-id="Q348694$95B7A152-EA45-4D79-951D-5E42EA230315" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD" title="Медельин">Медельин</a></span></span>)&#160;— колумбийский футболист, полузащитник.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Достижения"><span class="tocnumber">2</span> <span class="toctext">Достижения</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Личная_жизнь"><span class="tocnumber">3</span> <span class="toctext">Личная жизнь</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Статистика"><span class="tocnumber">4</span> <span class="toctext">Статистика</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Роджер начал карьеру в колумбийском клубе «<a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BF%D0%B5%D0%BD%D0%B4%D1%8C%D0%B5%D0%BD%D1%82%D0%B5_%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD" title="Индепендьенте Медельин">Индепендьенте Медельин</a>». Став чемпионом Колумбии в 2009 году, игрок решил попробовать себя за границей.
+</p><p>В 2010 году был близок к переходу в «<a href="/wiki/%D0%A3%D0%B4%D0%B8%D0%BD%D0%B5%D0%B7%D0%B5" title="Удинезе">Удинезе</a>»<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Но из-за сокращения в Италии количества легионеров перед началом <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" class="mw-redirect" title="Чемпионат Италии по футболу">чемпионата</a>, футболисту пришлось искать другой вариант продолжения карьеры в Европе. Таким вариантом оказался футбольный латвийский клуб «<a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Транзит (футбольный клуб)">Транзит</a>», за который колумбиец провёл 4 матча и забил 1 гол<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В июле 2010 года перешёл в новосибирскую «<a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA)" title="Сибирь (футбольный клуб, Новосибирск)">Сибирь</a>». В <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат России по футболу">чемпионате России</a> дебютировал 2 августа 2010 года в матче «<a href="/wiki/%D0%A2%D0%BE%D0%BC%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Томь (футбольный клуб)">Томь</a>»&#160;— «Сибирь»<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>. Но за весь сезон не забил ни одного гола и в августе 2011 года был отдан в аренду польской «<a href="/wiki/%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F" title="Ягеллония">Ягеллонии</a>» на год с правом выкупа<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>. Но в итоге отметился лишь в <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Кубок Польши по футболу">Кубке Польши</a>, не проведя ни одного матча <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Польши по футболу">чемпионата страны</a>.
+</p><p>26 января 2012 года стало официально известно, что Роджер будет играть за казахстанскую команду «<a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0)" title="Шахтёр (футбольный клуб, Караганда)">Шахтёр</a>»<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>. Находившийся в зимнее межсезонье в Турции на сборах футболист понравился главному тренеру карагандинской команды <a href="/wiki/%D0%9A%D1%83%D0%BC%D1%8B%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%91%D0%B0%D0%BB%D1%8E%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Кумыков, Виктор Балютович">Виктору Кумыкову</a>. Каньяс неплохо показал себя и в <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Казахстана по футболу">чемпионате Казахстана</a>, оформив хет-трик в 4-м туре в ворота «<a href="/wiki/%D0%96%D0%B5%D1%82%D1%8B%D1%81%D1%83_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Жетысу (футбольный клуб)">Жетысу</a>». И стал с «Шахтёром» <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Чемпионат Казахстана по футболу 2012">чемпионом Казахстана 2012 года</a>. В следующем сезоне клуб занял только 4 место, но зато выиграл в марте <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Суперкубок Казахстана по футболу 2013">Суперкубок Казахстана 2013</a> и в ноябре <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Кубок Казахстана по футболу 2013">Кубок Казахстана 2013</a>.
+</p><p>11 декабря 2013 года стало известно, что футболист переходит в донецкий «<a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D1%83%D1%80%D0%B3_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA)" title="Металлург (футбольный клуб, Донецк)">Металлург</a>». После нескольких товарищеских игр в составе новой команды Каньяс прошёл медицинское обследование. После чего врач донецкой команды Дмитрий Лисицын объявил, что колумбийский хавбек покинет клуб из-за наличия всего одной почки<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>. И футболист был вынужден вернуться в Караганду.
+</p><p>В феврале 2014 года Каньяс подписал двухлетний контракт со столичной «<a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_2009)" title="Астана (футбольный клуб, 2009)">Астаной</a>»<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>. И внёс солидный вклад в <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2014" title="Чемпионат Казахстана по футболу 2014">первое чемпионство клуба</a> в сезоне 2014 года, сыграв больше всех в команде&#160;— 30 матчей и забив 3 гола.
+</p><p>В 2015 году после выигрыша 1 марта Суперкубка Казахстана в составе ФК «Астана» дебютировал в групповом этапе <a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2015/2016" title="Лига чемпионов УЕФА 2015/2016">Лиги чемпионов</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>. По итогам первенства 2015 года вместе с «Астаной» снова стал <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Чемпионат Казахстана по футболу 2015">чемпионом Казахстана</a>, проведя 30 игр и забив 8 голов.
+</p><p>В августе 2016 года, став капитаном «Астаны», Каньяс впервые прошёл с командой в групповой этап <a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2016/2017" title="Лига Европы УЕФА 2016/2017">Лиги Европы</a> и продлил свой контракт до конца 2018 года<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>. В ноябре 2016 в третий раз подряд стал с «<a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_2009)" title="Астана (футбольный клуб, 2009)">Астаной</a>» <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Чемпионат Казахстана по футболу 2016">чемпионом Казахстана</a>, но за 31 игру забил всего один гол. 19 ноября в снегопад выиграл с «Астаной» <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Кубок Казахстана по футболу 2016">Кубок Казахстана по футболу 2016</a> у вечного соперника «Кайрата»<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Однако в январе 2017 года был отправлен на 4 месяца в аренду в кипрский <a href="/wiki/%D0%90%D0%9F%D0%9E%D0%AD%D0%9B_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="АПОЭЛ (футбольный клуб)">АПОЭЛ</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>&#160;— бессменный чемпион Кипра последних трёх лет, и там помог клубу из Никосии снова стать чемпионом.
+</p><p>В июне Каньяс вернулся в Казахстан, но «Астана» расторгла с 27-летним полузащитником контракт<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup> и он подписал договор до конца года с клубом из <a href="/wiki/%D0%A8%D1%8B%D0%BC%D0%BA%D0%B5%D0%BD%D1%82" title="Шымкент">Шымкента</a> «<a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B0%D0%B1%D0%B0%D1%81%D1%8B" title="Ордабасы">Ордабасы</a>»<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup> и завоевал с ним бронзовую медаль <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2017" title="Чемпионат Казахстана по футболу 2017">чемпионата Казахстана 2017</a>.
+</p><p>В феврале 2018 года Каньяс подписал контракт до лета с белорусским клубом «<a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA)" title="Шахтёр (футбольный клуб, Солигорск)">Шахтёр» (Солигорск)</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В феврале 2019 года снова вернулся в <a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD" title="Казахстан">Казахстан</a>, чтобы выступать за «<a href="/wiki/%D0%98%D1%80%D1%82%D1%8B%D1%88_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B4%D0%B0%D1%80)" title="Иртыш (футбольный клуб, Павлодар)">Иртыш</a>» (<a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B4%D0%B0%D1%80" title="Павлодар">Павлодар</a>) <sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Достижения"><span id=".D0.94.D0.BE.D1.81.D1.82.D0.B8.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F"></span>Достижения</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Достижения»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=2" title="Редактировать код раздела «Достижения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><b>«Индепендьенте»</b>
+</p>
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Колумбии по футболу">Чемпион Колумбии</a> 2009</li></ul>
+<p><b>«Шахтёр»</b>
+</p>
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Казахстана по футболу">Чемпион Казахстана</a>: <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Чемпионат Казахстана по футболу 2012">2012</a></li>
+<li>Обладатель Кубка Казахстана: <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Кубок Казахстана по футболу 2013">2013</a></li>
+<li>Обладатель Суперкубка Казахстана: <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Суперкубок Казахстана по футболу 2013">2013</a></li></ul>
+<p><b>«Астана»</b>
+</p>
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Казахстана по футболу">Чемпион Казахстана</a> (3): <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2014" title="Чемпионат Казахстана по футболу 2014">2014</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Чемпионат Казахстана по футболу 2015">2015</a>, <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Чемпионат Казахстана по футболу 2016">2016</a></li>
+<li>Обладатель Суперкубка Казахстана: <a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Суперкубок Казахстана по футболу 2015">2015</a></li>
+<li>Обладатель Кубка Казахстана: <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Кубок Казахстана по футболу 2016">2016</a></li></ul>
+<p><b>АПОЭЛ</b>
+</p>
+<ul><li><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Чемпионат Кипра по футболу">Чемпион Кипра</a>: <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016/2017" title="Чемпионат Кипра по футболу 2016/2017">2016/17</a></li></ul>
+<p><b>«Ордабасы»</b>
+</p>
+<ul><li>Бронзовый призёр чемпионата Казахстана: <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2017" title="Чемпионат Казахстана по футболу 2017">2017</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Личная_жизнь"><span id=".D0.9B.D0.B8.D1.87.D0.BD.D0.B0.D1.8F_.D0.B6.D0.B8.D0.B7.D0.BD.D1.8C"></span>Личная жизнь</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Личная жизнь»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=3" title="Редактировать код раздела «Личная жизнь»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Родился в обычной колумбийской семье<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>. Отец&#160;— экскаваторщик, мать&#160;— домохозяйка, был единственным ребёнком в семье. Лучший друг Каньяса&#160;— <a href="/wiki/%D0%A5%D1%83%D0%B0%D0%BD_%D0%9A%D1%83%D0%B0%D0%B4%D1%80%D0%B0%D0%B4%D0%BE" class="mw-redirect" title="Хуан Куадрадо">Хуан Куадрадо</a>. Вместе начинали профессиональную карьеру, но из-за введённого лимита на легионеров в Италии Роджер Каньяс не смог остаться в «Удинезе». Сейчас вместе с женой Марселой, дочкой Лусианой (2010) и сыном Мартином (2015) живёт в Караганде.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Статистика"><span id=".D0.A1.D1.82.D0.B0.D1.82.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span>Статистика</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Статистика»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=4" title="Редактировать код раздела «Статистика»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div role="note" class="hatnote navigation-not-searchable">По состоянию на 6 ноября 2017&#160;года</div>
+<table class="wikitable" style="text-align:center">
+
+<tbody><tr>
+<th rowspan="2">Клуб
+</th>
+<th rowspan="2">Сезон
+</th>
+<th colspan="3">Лига
+</th>
+<th colspan="3">Кубки
+</th>
+<th colspan="3">Конт.турниры
+</th>
+<th colspan="3">Прочие
+</th>
+<th colspan="2">Всего
+</th></tr>
+<tr>
+<th>Сорев.</th>
+<th>Матчи</th>
+<th>Голы</th>
+<th>Сорев.</th>
+<th>Матчи</th>
+<th>Голы</th>
+<th>Сорев.</th>
+<th>Матчи</th>
+<th>Голы</th>
+<th>Сорев.</th>
+<th>Матчи</th>
+<th>Голы</th>
+<th>Матчи</th>
+<th>Голы
+</th></tr>
+<tr>
+<td rowspan="3"><b><a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B5%D0%BF%D0%B5%D0%BD%D0%B4%D1%8C%D0%B5%D0%BD%D1%82%D0%B5_%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD" title="Индепендьенте Медельин">Индепендьенте Медельин</a></b>
+</td>
+<td>2008
+</td>
+<td><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2008&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Колумбии по футболу 2008 (страница отсутствует)">ЧКол</a></td>
+<td>2</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2008" title="Кубок Колумбии по футболу 2008">ККол</a></td>
+<td>?</td>
+<td>?</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>2</td>
+<td>0
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td><a href="/w/index.php?title=%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2009&amp;action=edit&amp;redlink=1" class="new" title="Чемпионат Колумбии по футболу 2009 (страница отсутствует)">ЧКол</a></td>
+<td>27</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2009" title="Кубок Колумбии по футболу 2009">ККол</a></td>
+<td>?</td>
+<td>?</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D1%82%D0%B0%D0%B4%D0%BE%D1%80%D0%B5%D1%81_2009" title="Кубок Либертадорес 2009">КЛ</a></td>
+<td>4</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>31</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>29</th>
+<th>0</th>
+<th></th>
+<th>0</th>
+<th>0</th>
+<th></th>
+<th>4</th>
+<th>0</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>33</th>
+<th>0
+</th></tr>
+<tr>
+<td rowspan="2"><b><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Транзит (футбольный клуб)">Транзит</a></b>
+</td>
+<td>2010
+</td>
+<td><a href="/wiki/%D0%92%D1%8B%D1%81%D1%88%D0%B0%D1%8F_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2010" title="Высшая лига Латвии по футболу 2010">ВЛЛ</a></td>
+<td>4</td>
+<td>1</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2010/2011" title="Кубок Латвии по футболу 2010/2011">КЛ</a></td>
+<td>0</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>4</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>4</th>
+<th>1</th>
+<th></th>
+<th>0</th>
+<th>0</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>4</th>
+<th>1
+</th></tr>
+<tr>
+<td rowspan="3"><b><a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA)" title="Сибирь (футбольный клуб, Новосибирск)">Сибирь (Новосибирск)</a></b>
+</td>
+<td>2010
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2010" title="Чемпионат России по футболу 2010">ЧР</a></td>
+<td>14</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2010/2011" title="Кубок России по футболу 2010/2011">КР</a></td>
+<td>1</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2010/2011" title="Лига Европы УЕФА 2010/2011">ЛЕ</a></td>
+<td>2</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>17</td>
+<td>0
+</td></tr>
+<tr>
+<td>2011/12
+</td>
+<td><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8_2011/2012" class="mw-redirect" title="Первенство Футбольной национальной лиги 2011/2012">ПФНЛ</a></td>
+<td>7</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2011/2012" title="Кубок России по футболу 2011/2012">КР</a></td>
+<td>1</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>8</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>21</th>
+<th>0</th>
+<th></th>
+<th>2</th>
+<th>0</th>
+<th></th>
+<th>2</th>
+<th>0</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>25</th>
+<th>0
+</th></tr>
+<tr>
+<td rowspan="2"><b><a href="/wiki/%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F" title="Ягеллония">Ягеллония</a></b>
+</td>
+<td>2011/12
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2011/2012" title="Чемпионат Польши по футболу 2011/2012">ЧП</a></td>
+<td>0</td>
+<td>0</td>
+<td><a href="/w/index.php?title=%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2011/2012&amp;action=edit&amp;redlink=1" class="new" title="Кубок Польши по футболу 2011/2012 (страница отсутствует)">КП</a></td>
+<td>1</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>0</th>
+<th>0</th>
+<th></th>
+<th>1</th>
+<th>0</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>1</th>
+<th>0
+</th></tr>
+<tr>
+<td rowspan="3"><b><a href="/wiki/%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0)" title="Шахтёр (футбольный клуб, Караганда)">Шахтёр (Караганда)</a></b>
+</td>
+<td>2012
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Чемпионат Казахстана по футболу 2012">ЧКаз</a></td>
+<td>26</td>
+<td>3</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Кубок Казахстана по футболу 2012">ККаз</a></td>
+<td>4</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2012/2013" title="Лига чемпионов УЕФА 2012/2013">ЛЧ</a></td>
+<td>2</td>
+<td>0</td>
+<td><a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2012" title="Суперкубок Казахстана по футболу 2012">СК</a></td>
+<td>1</td>
+<td>0</td>
+<td>33</td>
+<td>4
+</td></tr>
+<tr>
+<td>2013
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Чемпионат Казахстана по футболу 2013">ЧКаз</a></td>
+<td>26</td>
+<td>4</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Кубок Казахстана по футболу 2013">ККаз</a></td>
+<td>4</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%A3%D0%95%D0%A4%D0%90_2013/2014" title="Лига чемпионов УЕФА 2013/2014">ЛЧ</a>+<a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2013/2014" title="Лига Европы УЕФА 2013/2014">ЛЕ</a></td>
+<td>6+6</td>
+<td>0+2</td>
+<td><a href="/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2013" title="Суперкубок Казахстана по футболу 2013">СК</a></td>
+<td>1</td>
+<td>0</td>
+<td>43</td>
+<td>6
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>52</th>
+<th>7</th>
+<th></th>
+<th>8</th>
+<th>1</th>
+<th></th>
+<th>14</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>0</th>
+<th>76</th>
+<th>10
+</th></tr>
+<tr>
+<td rowspan="4"><b><a href="/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1,_2009)" title="Астана (футбольный клуб, 2009)">Астана</a></b>
+</td>
+<td>2014
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2014" title="Чемпионат Казахстана по футболу 2014">ЧКаз</a></td>
+<td>30</td>
+<td>3</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2014" title="Кубок Казахстана по футболу 2014">ККаз</a></td>
+<td>2</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2014/2015" title="Лига Европы УЕФА 2014/2015">ЛЕ</a></td>
+<td>7</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>39</td>
+<td>4
+</td></tr>
+<tr>
+<td>2015
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Чемпионат Казахстана по футболу 2015">ЧКаз</a></td>
+<td>30</td>
+<td>8</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2015" title="Кубок Казахстана по футболу 2015">ККаз</a></td>
+<td>2</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2015/2016" title="Лига Европы УЕФА 2015/2016">ЛЕ</a></td>
+<td>10</td>
+<td>2</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>43</td>
+<td>10
+</td></tr>
+<tr>
+<td>2016
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Чемпионат Казахстана по футболу 2016">ЧКаз</a></td>
+<td>31</td>
+<td>1</td>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016" title="Кубок Казахстана по футболу 2016">ККаз</a></td>
+<td>2</td>
+<td>0</td>
+<td><a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B_%D0%A3%D0%95%D0%A4%D0%90_2016/2017" title="Лига Европы УЕФА 2016/2017">ЛЕ</a></td>
+<td>11</td>
+<td>0</td>
+<td>-</td>
+<td>1</td>
+<td>0</td>
+<td>45</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>91</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>0</th>
+<th></th>
+<th>28</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>0</th>
+<th>127</th>
+<th>15
+</th></tr>
+<tr>
+<td rowspan="2"><b><a href="/wiki/%D0%90%D0%9F%D0%9E%D0%AD%D0%9B_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="АПОЭЛ (футбольный клуб)">АПОЭЛ</a></b>
+</td>
+<td>2016/17
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2016/2017" title="Чемпионат Кипра по футболу 2016/2017">ЧК</a></td>
+<td>9</td>
+<td>1</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>9</td>
+<td>1
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>9</th>
+<th>1</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>9</th>
+<th>1
+</th></tr>
+<tr>
+<td rowspan="2"><b><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B0%D0%B1%D0%B0%D1%81%D1%8B" title="Ордабасы">Ордабасы</a></b>
+</td>
+<td>2017
+</td>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83_2017" title="Чемпионат Казахстана по футболу 2017">ЧКаз</a></td>
+<td>12</td>
+<td>0</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>12</td>
+<td>0
+</td></tr>
+<tr>
+<th colspan="2"><b>Всего</b>
+</th>
+<th>12</th>
+<th>0</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>12</th>
+<th>0
+</th></tr>
+<tr>
+<th colspan="3"><b>Всего за карьеру</b>
+</th>
+<th>189</th>
+<th>21</th>
+<th></th>
+<th>17</th>
+<th>1</th>
+<th></th>
+<th>44</th>
+<th>5</th>
+<th></th>
+<th>4</th>
+<th>0</th>
+<th>254</th>
+<th>28
+</th></tr></tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=5" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160319113509/http://prosportkz.kz/ru/news/78545.html#commentsform">Лучший игрок КПЛ: «Меня зовут Роджер»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 16 марта 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://prosportkz.kz/ru/news/78545.html#commentsform">оригинала</a> 19 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-_7aecf3cc37c71581-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_7aecf3cc37c71581_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_7aecf3cc37c71581_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076 citetype_Q62382254 citetype_Q39835986" data-entity-id="Q2449070">Róger Cañas // <a rel="nofollow" class="external text" href="https://www.transfermarkt.com/-/profil/spieler/91968">Transfermarkt.com</a>&#160;<span class="ref-info" style="cursor:help;" title="на множестве языков">(мн.)</span><span class="wef_low_priority_links"> — 2000.</span></span></span>
+</li>
+<li id="cite_note-_fe2a7514c76068f4-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_fe2a7514c76068f4_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_fe2a7514c76068f4_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076 citetype_Q39835986" data-entity-id="Q56239490">Roger Cañas // <a rel="nofollow" class="external text" href="https://fbref.com/en/players/4150025f/">FBref.com</a>&#160;<span class="ref-info" style="cursor:help;" title="на множестве языков">(мн.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-_f98fbf607c01d78b-6"><span class="mw-cite-backlink"><a href="#cite_ref-_f98fbf607c01d78b_6-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sports.kz/news/kayrat-nurdauletov-iho-kurd-i-zmey">https://www.sports.kz/news/kayrat-nurdauletov-iho-kurd-i-zmey</a><span class="wef_low_priority_links"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sovsport.ru/news/text-item/408124">Полузащитник «Сибири» Роджер Каньяс: Хочу показать всем в России, на что способен Роджер Каньяс</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 7 марта 2012.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170825121754/http://www.sovsport.ru/news/text-item/408124">Архивировано</a> 25 августа 2017 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://reload.lff.lv/StatsPortal/PlayerDetails.aspx?playerID=52106&amp;CompID=3">Статистика на reload.lff.lv</a>&#160;<small class="ref-info">(недоступная ссылка)</small>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://ru.sportacentrs.com/futbol/22062010-tranzit_s_prodazi_kolumbijca_mozet_zarabo">"Транзит" с продажи колумбийца может заработать 400 тысяч евро</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;sportacentrs.com&#32;(22 июня 2010).&#32;Дата обращения: 3 августа 2010.</span>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://premierliga.ru/match/match_6663.html">Протокол матча на сайте РФПЛ</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jagiellonia.pl/aktualnosci.php?a=9688">Róger Cañas w Jadze</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110927095109/http://www.jagiellonia.pl/aktualnosci.php?a=9688">Архивная копия</a> от 27 сентября 2011 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<small class="ref-info" style="cursor:help;" title="на польском языке">(пол.)</small></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sports.kz/news.php?id=51441&amp;type=small&amp;st=0000000010&amp;nd=1">«Шахтер» подписал Роджера Каньяса</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sports.kz/news/kanyas-bez-pochki-okazalsya-ne-nujen-donetskomu-metallurgu">Каньяс без почки оказался не нужен донецкому «Металлургу»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 5 декабря 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20151208082648/http://www.sports.kz/news/kanyas-bez-pochki-okazalsya-ne-nujen-donetskomu-metallurgu">Архивировано</a> 8 декабря 2015 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://vesti.kz/kazfutbol/184629/">Каньяс подписал контракт с «Астаной»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 30 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170202070957/http://vesti.kz/kazfutbol/184629/">Архивировано</a> 2 февраля 2017 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sports.kz/news/roher-kanyas-ya-okazalsya-v-evropeyskom-futbole-blagodarya-obmanu">Роджер Каньяс: «Я оказался в европейском футболе, благодаря обману»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 1 февраля 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170611122354/http://www.sports.kz/news/roher-kanyas-ya-okazalsya-v-evropeyskom-futbole-blagodarya-obmanu">Архивировано</a> 11 июня 2017 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://vesti.kz/kazfutbol/225310/">Роджер Каньяс продлил контракт с «Астаной» до конца 2018 года</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 1 февраля 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161217204214/http://vesti.kz/kazfutbol/225310/">Архивировано</a> 17 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://kazfootball.kz/news/8937">Рохер Каньяс: «Каждую победу над нами в „Кайрате“ празднуют так, будто выиграли чемпионат»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 24 декабря 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20171224215151/http://kazfootball.kz/news/8937">Архивировано</a> 24 декабря 2017 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sports.kz/news/apoel-obyyavil-o-podpisanii-kanyasa">АПОЭЛ объявил о подписании Каньяса"</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 30 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170131091503/http://www.sports.kz/news/apoel-obyyavil-o-podpisanii-kanyasa">Архивировано</a> 31 января 2017 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sports.kz/news/astana-oglasila-usloviya-perehoda-kanyasa-v-apoel">«Астана» огласила условия перехода Каньяса в АПОЭЛ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 31 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170202162348/http://www.sports.kz/news/astana-oglasila-usloviya-perehoda-kanyasa-v-apoel">Архивировано</a> 2 февраля 2017 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://prosports.kz/news/240491">Роджер Каньяс: Уход из «Астаны»&#160;— это не мое решение</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 28 июля 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170728121915/http://prosports.kz/news/240491">Архивировано</a> 28 июля 2017 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.sports.kz/news/roher-kanyas-podpisal-kontrakt-s-ordabasyi">Роджер Каньяс подписал контракт с «Ордабасы»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 21 июля 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170728140023/https://www.sports.kz/news/roher-kanyas-podpisal-kontrakt-s-ordabasyi">Архивировано</a> 28 июля 2017 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.sports.kz/news/roher-kanyas-podpisal-kontrakt-s-novyim-klubom">Рохер Каньяс подписал контракт с новым клубом</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 17 февраля 2018.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180218024005/https://www.sports.kz/news/roher-kanyas-podpisal-kontrakt-s-novyim-klubom">Архивировано</a> 18 февраля 2018 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.sports.kz/news/chetyirehkratnyiy-chempion-kazahstana-o-planah-v-novoy-komande">Четырехкратный чемпион Казахстана официально подписал контракт с клубом КПЛ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 20 февраля 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190221054735/https://www.sports.kz/news/chetyirehkratnyiy-chempion-kazahstana-o-planah-v-novoy-komande">Архивировано</a> 21 февраля 2019 года.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sports.kz/news/roher-kanyas-vodka-ne-ne-ne-proboval-ya-serezno">Роджер Каньяс: «Водка? Не-не, не пробовал! Я серьезно!»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 30 января 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170202041138/http://www.sports.kz/news/roher-kanyas-vodka-ne-ne-ne-proboval-ya-serezno">Архивировано</a> 2 февраля 2017 года.</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;section=6" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><span data-wikidata-external-id="Roher-Kanyas-Henao" class="no-wikidata" data-wikidata-property-id="P4417"><a rel="nofollow" class="external text" href="https://premierliga.ru/players/Roher-Kanyas-Henao">Профиль на сайте РПЛ</a></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.shahter.kz/main.php?mod=team-command-kanias">Профиль</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130928043438/http://www.shahter.kz/main.php?mod=team-command-kanias">Архивная копия</a> от 28 сентября 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small> на сайте ФК «Шахтёр» Караганда</li>
+<li><a rel="nofollow" class="external text" href="http://fc-shahter-karaganda.de/spieler/K/Kanyas.html">Профиль</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130928074428/http://fc-shahter-karaganda.de/spieler/K/Kanyas.html">Архивная копия</a> от 28 сентября 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small> на сайте истории ФК «Шахтёр» Караганда</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q348694#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Фото, видео и аудио</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.tcdb.com/Person.cfm/pid/97711/">TCDb</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="http://www.90minut.pl/kariera.php?id=20869">90minut</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.allplayers.in.ua/ru/player/3560">allplayers.in.ua</a></li>
+<li><a rel="nofollow" class="external text" href="https://resultados.as.com/resultados/ficha/deportista/r_henao/24229">AS.com</a></li>
+<li><a rel="nofollow" class="external text" href="https://bdfa.com.ar/jugadores-69190.html">BDFA</a></li>
+<li><a rel="nofollow" class="external text" href="https://global.espn.com/football/player/_/id/121213">ESPNFC.com</a></li>
+<li><a rel="nofollow" class="external text" href="https://fbref.com/en/players/4150025f/">FBref.com</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.footballdatabase.eu/en/player/details/58213">FootballDatabase.eu</a></li>
+<li><a rel="nofollow" class="external text" href="https://footballfakts.ru/person/7449">FootballFakts.ru</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.kicker.de/roger-canas/spieler">Kicker.de</a></li>
+<li><a rel="nofollow" class="external text" href="https://int.soccerway.com/players/-/74444/">Soccerway</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.teams.by/player/info/1233">teams.by</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.transfermarkt.com/transfermarkt/profil/spieler/91968">Transfermarkt (игрок)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.worldfootball.net/player_summary/roger-canas/">worldfootball.net (игрок)</a></li>
+<li><a rel="nofollow" class="external text" href="https://pressball.by/players/football/1070/">Прессбол</a></li>
+<li><a rel="nofollow" class="external text" href="https://premierliga.ru/players/Roher-Kanyas-Henao">РПЛ (игрок)</a></li>
+<li><a rel="nofollow" class="external text" href="https://ru.uefa.com/uefachampionsleague/clubs/players/250021756/">УЕФА</a></li></ul>
+</div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://auth.wikimedia.org/loginwiki/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Каньяс,_Роджер&amp;oldid=143140019">https://ru.wikipedia.org/w/index.php?title=Каньяс,_Роджер&amp;oldid=143140019</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_27_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="Категория:Родившиеся 27 марта">Родившиеся 27 марта</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1990_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1990 году">Родившиеся в 1990 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD%D0%B5" title="Категория:Родившиеся в Медельине">Родившиеся в Медельине</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Спортсмены по алфавиту">Спортсмены по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Футболисты по алфавиту">Футболисты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%9A%D0%BE%D0%BB%D1%83%D0%BC%D0%B1%D0%B8%D0%B8" title="Категория:Футболисты Колумбии">Футболисты Колумбии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%98%D0%BD%D0%B4%D0%B5%D0%BF%D0%B5%D0%BD%D0%B4%D1%8C%D0%B5%D0%BD%D1%82%D0%B5_%D0%9C%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%B8%D0%BD%C2%BB" title="Категория:Игроки ФК «Индепендьенте Медельин»">Игроки ФК «Индепендьенте Медельин»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%A2%D1%80%D0%B0%D0%BD%D0%B7%D0%B8%D1%82%C2%BB" title="Категория:Игроки ФК «Транзит»">Игроки ФК «Транзит»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C%C2%BB" title="Категория:Игроки ФК «Сибирь»">Игроки ФК «Сибирь»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%AF%D0%B3%D0%B5%D0%BB%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F%C2%BB" title="Категория:Игроки ФК «Ягеллония»">Игроки ФК «Ягеллония»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80%C2%BB_%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B0%D0%BD%D0%B4%D0%B0" title="Категория:Игроки ФК «Шахтёр» Караганда">Игроки ФК «Шахтёр» Караганда</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%C2%BB_(2009)" title="Категория:Игроки ФК «Астана» (2009)">Игроки ФК «Астана» (2009)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%D0%90%D0%9F%D0%9E%D0%AD%D0%9B" title="Категория:Игроки ФК АПОЭЛ">Игроки ФК АПОЭЛ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%9E%D1%80%D0%B4%D0%B0%D0%B1%D0%B0%D1%81%D1%8B%C2%BB" title="Категория:Игроки ФК «Ордабасы»">Игроки ФК «Ордабасы»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%A8%D0%B0%D1%85%D1%82%D1%91%D1%80%C2%BB_%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA" title="Категория:Игроки ФК «Шахтёр» Солигорск">Игроки ФК «Шахтёр» Солигорск</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%98%D1%80%D1%82%D1%8B%D1%88%C2%BB_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B4%D0%B0%D1%80" title="Категория:Игроки ФК «Иртыш» Павлодар">Игроки ФК «Иртыш» Павлодар</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D0%BE%D0%BA%D0%B8_%D0%A4%D0%9A_%C2%AB%D0%91%D0%B0%D1%80%D0%BD%D0%B5%D1%87%D0%B5%D0%B0%C2%BB" title="Категория:Игроки ФК «Барнечеа»">Игроки ФК «Барнечеа»</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%BC_%D0%A4%D0%98%D0%9E_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%BE%D0%B9_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%89%D0%B8%D0%B5_%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Категория:Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности">Википедия:Страницы с шаблоном ФИО со ссылкой на общие неоднозначности</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B2_2025_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Проект:Футбол:Последняя правка в 2025 году">Проект:Футбол:Последняя правка в 2025 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: футболист)">Википедия:Статьи без изображений (тип: человек; род занятий: футболист)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81%2C+%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81%2C+%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;oldid=143140019" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81%2C_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;id=143140019&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25B0%25D0%25BD%25D1%258C%25D1%258F%25D1%2581%2C_%25D0%25A0%25D0%25BE%25D0%25B4%25D0%25B6%25D0%25B5%25D1%2580"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25B0%25D0%25BD%25D1%258C%25D1%258F%25D1%2581%2C_%25D0%25A0%25D0%25BE%25D0%25B4%25D0%25B6%25D0%25B5%25D1%2580"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81%2C_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q348694" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%AC%D8%B1_%D9%83%D8%A7%D9%86%D8%A7%D8%B3" title="روجر كاناس — арабский" lang="ar" hreflang="ar" data-title="روجر كاناس" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B1%D9%88%D8%AC%D8%B1_%D9%83%D8%A7%D9%86%D8%A7%D8%B3" title="روجر كاناس — Egyptian Arabic" lang="arz" hreflang="arz" data-title="روجر كاناس" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%BE%D1%85%D0%B5%D1%80_%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81" title="Рохер Каньяс — белорусский" lang="be" hreflang="be" data-title="Рохер Каньяс" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — немецкий" lang="de" hreflang="de" data-title="Roger Cañas" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — английский" lang="en" hreflang="en" data-title="Roger Cañas" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — испанский" lang="es" hreflang="es" data-title="Roger Cañas" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — итальянский" lang="it" hreflang="it" data-title="Roger Cañas" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%85%D0%B5%D1%80_%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81" title="Рохер Каньяс — казахский" lang="kk" hreflang="kk" data-title="Рохер Каньяс" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — малагасийский" lang="mg" hreflang="mg" data-title="Roger Cañas" data-language-autonym="Malagasy" data-language-local-name="малагасийский" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — польский" lang="pl" hreflang="pl" data-title="Roger Cañas" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D0%BE%D2%B7%D0%B5%D1%80_%D0%9A%D0%B0%D0%BD%D1%8F%D1%81" title="Роҷер Каняс — таджикский" lang="tg" hreflang="tg" data-title="Роҷер Каняс" data-language-autonym="Тоҷикӣ" data-language-local-name="таджикский" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80_%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81" title="Роджер Каньяс — украинский" lang="uk" hreflang="uk" data-title="Роджер Каньяс" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Roger_Ca%C3%B1as" title="Roger Cañas — узбекский" lang="uz" hreflang="uz" data-title="Roger Cañas" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q348694#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 3 февраля 2025 в 00:40.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-f695cd9fc-p2w76","wgBackendResponseTime":240,"wgPageParseReport":{"limitreport":{"cputime":"0.903","walltime":"1.162","ppvisitednodes":{"value":4557,"limit":1000000},"postexpandincludesize":{"value":99250,"limit":2097152},"templateargumentsize":{"value":30213,"limit":2097152},"expansiondepth":{"value":24,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25695,"limit":5000000},"entityaccesscount":{"value":20,"limit":400},"timingprofile":["100.00% 1065.626      1 -total"," 65.81%  701.296      1 Шаблон:Футболист"," 60.03%  639.746      1 Шаблон:Карточка"," 34.02%  362.518     23 Шаблон:Wikidata"," 24.13%  257.113      2 Шаблон:Br_separated_entries"," 11.08%  118.045      1 Шаблон:Примечания"," 10.57%  112.612      1 Шаблон:Wikidata/p569","  7.75%   82.605      9 Шаблон:If-wikidata","  7.70%   82.008      1 Шаблон:ВД-Преамбула","  7.42%   79.073      1 Шаблон:ВД-Преамбула/основа"]},"scribunto":{"limitreport-timeusage":{"value":"0.555","limit":"10.000"},"limitreport-memusage":{"value":7402048,"limit":52428800},"limitreport-logs":"Loaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P54 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P54 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype monolingualtext of P1449 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2048 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P4417 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-58b8fc8dfb-tdxjt","timestamp":"20250401211436","ttl":2515531,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041a\u0430\u043d\u044c\u044f\u0441, \u0420\u043e\u0434\u0436\u0435\u0440","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9A%D0%B0%D0%BD%D1%8C%D1%8F%D1%81,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80","sameAs":"http:\/\/www.wikidata.org\/entity\/Q348694","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q348694","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-08-02T15:10:47Z"}</script>
+</body>
+</html>
